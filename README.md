@@ -1,6 +1,6 @@
 # RL_Project_Car_Racing
 
-In this project, we are interested to train the DQN and A2C agents on [Car-Racing_v0](https://gymnasium.farama.org/environments/box2d/car_racing/) environment.  The Car-Racing environment is part of the[Box2D](https://gymnasium.farama.org/environments/box2d/) environments. 
+In this project, we are interested in training the DQN and A2C agents on [Car-Racing_v0](https://gymnasium.farama.org/environments/box2d/car_racing/) environment.  The Car-Racing environment is part of the [Box2D](https://gymnasium.farama.org/environments/box2d/) environments. 
 
 In the video below, we present samples of interactions with the environment.
 
