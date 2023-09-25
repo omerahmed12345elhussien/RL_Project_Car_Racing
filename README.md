@@ -6,7 +6,7 @@ In the video below, we present samples of interactions with the environment.
 
 <img width="300" height="300" alt="color picker" src="https://github.com/omerahmed12345elhussien/RL_Project_Car_Racing/blob/omer/added-files/GIFs/DQN/animation_interaction.gif" />
 
-## Deep Q-Network (DQN) and Double DQN
+## DQN and DDQN
 
 [Q-learning](https://www.nature.com/articles/nature14236) is a value-based reinforcement learning algorithm used to find the optimal policy for an MDP. It operates by iteratively updating a Q-table, where each entry (Q-value) represents the expected cumulative reward of taking a specific action in a specific state. The iterative process involves the agent learning by exploring the environment and updating the model as the exploration continues.
 
