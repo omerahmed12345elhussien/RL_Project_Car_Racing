@@ -12,6 +12,6 @@ In the video below, we present samples of interactions with the environment.
 
 [Double Deep Q-Learning (DDQN)](https://arxiv.org/abs/1509.06461) is an enhancement of the classic Q-learning algorithm. It addresses the issue of overestimation bias in Q-values by using two separate Q-value networks: an online network and a target network. DDQN employs experience replay to improve sample efficiency and stabilize training.
 
-[![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerahmed12345elhussien/RL_Project_Car_Racing/blob/omer%2Fadded-files/DQN_notebook.ipynb)
+[![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerahmed12345elhussien/RL_Project_Car_Racing/blob/omer%2Fadded-files/Project_notebook.ipynb)
 
 ## Actor-Critic (A2C)
