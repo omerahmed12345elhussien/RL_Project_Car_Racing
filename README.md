@@ -17,3 +17,13 @@ In the video below, we present samples of interactions with the environment.
 [![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerahmed12345elhussien/RL_Project_Car_Racing/blob/omer%2Fadded-files/Project_notebook.ipynb)
 
 ## Actor-Critic (A2C)
+
+
+
+## References
+
+[1] [https://hiddenbeginner.github.io/study-notes/contents/tutorials/2023-04-20_CartRacing-v2_DQN.html](https://hiddenbeginner.github.io/study-notes/contents/tutorials/2023-04-20_CartRacing-v2_DQN.html)
+
+[2] [https://github.com/google-deepmind/dqn_zoo](https://github.com/google-deepmind/dqn_zoo)
+
+[3] [https://github.com/hamishs/JAX-RL/tree/main](https://github.com/hamishs/JAX-RL/tree/main)
