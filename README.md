@@ -12,7 +12,7 @@ In the video below, we present samples of interactions with the environment.
 
 [Double Deep Q-Learning (DDQN)](https://arxiv.org/abs/1509.06461) is an enhancement of the classic Q-learning algorithm. It addresses the issue of overestimation bias in Q-values using two separate Q-value networks: an online network and a target network. DDQN employs experience replay to improve sample efficiency and stabilize training.
 
-[Dueling Network Architectures](https://arxiv.org/abs/1511.06581) proposes a different architecture compared with the one used in  [Mnih’s 2015 paper](https://www.nature.com/articles/nature14236). After the end of the convolutional layers, they introduced two estimators: one for the stat value function and the other for the stat-dependent action advantage function. 
+[Dueling Network Architectures](https://arxiv.org/abs/1511.06581) proposes a different architecture compared with the one used in  [Mnih’s 2015 paper](https://www.nature.com/articles/nature14236). After the end of the convolutional layers, they introduced two estimators: one for the state value function and the other for the state-dependent action advantage function. 
 
 [![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerahmed12345elhussien/RL_Project_Car_Racing/blob/omer%2Fadded-files/Project_notebook.ipynb)
 
