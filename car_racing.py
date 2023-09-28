@@ -539,11 +539,11 @@ class CarRacing_Disc(gym.Env, EzPickle):
             x, y = self.car.hull.position
             if abs(x) > PLAYFIELD or abs(y) > PLAYFIELD:
                 terminated = True
-                step_reward = -100
+                step_reward = 0#-100
 
         if self.render_mode == "human":
             self.render()
-        return self.state, step_reward, terminated, truncated, {}
+        return self.state, np.clip(step_reward,a_min=-np.inf,a_max=1.0), terminated, truncated, {}
 
     def render(self):
         if self.render_mode is None:
